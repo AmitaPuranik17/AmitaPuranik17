@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmitaPuranik17
 
-- 🌱 I’m currently learning Java
+- I like to learn cool things :P
 
 
 
